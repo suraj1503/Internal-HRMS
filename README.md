@@ -12,7 +12,7 @@ An **Events Module** built using the **MERN stack**, to streamline event sharing
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React.js with Material UI
+- **Frontend**: React.js
 - **Backend**: Node.js & Express.js
 - **Database**: MongoDB Atlas
 - **Storage**: AWS S3 for image storage
